@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @tinygusie2
-- 👀 I’m interested in google pixel
-- 🌱 I’m currently learning dart and kotlin
+
 
 
 <!---
